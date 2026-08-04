@@ -14,7 +14,7 @@
 | Tyranor | https://www.tyranoremu.com/ | | 模拟器 | 多引擎gal模拟器 安卓端 | |
 | ARKRPG | https://arkrpg.tech/ | | 模拟器 | RPG引擎模拟器 iOS端 | |
 | ONScripter | https://ogapee.github.io/www/onscripter.html | [yuri](https://github.com/YuriSizuku/OnscripterYuri) / [AppStore](https://apps.apple.com/cn/app/onsplayer/id1388250129) | 模拟器 | ONS引擎模拟器 全平台 | |
-| Kirikiroid2 | https://github.com/zeas2/Kirikiroid2 | [AppStore](https://apps.apple.com/cn/app/xp3player/id1064060287) / [LCG网盘](https://cloud.arisumika.top/s/OntK) | 模拟器 | Kirikiri引擎模拟器 | 建议用176号Issues提到的分支 |
+| Kirikiroid2 | https://github.com/zeas2/Kirikiroid2 | [AppStore](https://apps.apple.com/cn/app/xp3player/id1064060287) / [LCG网盘](https://cloud.arisumika.top/s/OntK) | 模拟器 | Kirikiri引擎模拟器 | 建议用[176号Issues](https://github.com/zeas2/Kirikiroid2/issues/176)提到的分支 |
 | Winlator | https://winlator.org/ | [Github](https://github.com/brunodev85/winlator) | 模拟器 | 安卓运行win x86_64程序 | |
 | Foobar2000 | https://www.foobar2000.org/ | [foobaka Mixture](https://www.bilibili.com/opus/1101280157882122264) | 播放器 | 高级免费音频播放器，baka系列为二次元美化版 | 助听器预定 |
 | PotPlayer | https://potplayer.tv/ | | 播放器 | 高级免费视频播放器 | 调教有一定门槛 |
