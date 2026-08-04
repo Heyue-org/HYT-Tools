@@ -20,9 +20,9 @@
 | Foobar2000 | [官网](https://www.foobar2000.org/) | [foobaka Mixture](https://www.bilibili.com/opus/1101280157882122264) | 播放器 | 高级免费音频播放器，baka系列为二次元美化版 | 助听器预定 |
 | PotPlayer | [官网](https://potplayer.tv/) | | 播放器 | 高级免费视频播放器 | 调教有一定门槛 |
 | MT管理器 | [官网](https://mt2.cn/) | | 文件管理器 | Android平台文件管理/逆向修改器 | |
-| VC++运行库 | [下载](https://visualstudio.microsoft.com/zh-hans/downloads/) | | 环境修复工具 | | |
+| VC++运行库 | [下载](https://visualstudio.microsoft.com/zh-hans/downloads/) | 运行依赖VC++库的游戏和程序的必备组件 | 环境修复工具 | | |
 | .NET 框架 | [下载](https://dotnet.microsoft.com/zh-cn/download) | | 环境修复工具 | | |
-| DirectX_Repair | [GitCode](https://gitcode.com/Premium-Resources/fb832) | [CSDN](https://blog.csdn.net/xiyang_1990/article/details/145011740) / [LCG网盘](https://cloud.arisumika.top/s/GzC5) | 环境修复工具 | | |
+| DirectX_Repair | [GitCode](https://gitcode.com/Premium-Resources/fb832) | [CSDN](https://blog.csdn.net/xiyang_1990/article/details/145011740) / [LCG网盘](https://cloud.arisumika.top/s/GzC5) | 环境修复工具 | 一键检测修复DirectX故障及运行库缺失 | |
 | IDM | [官网](https://www.internetdownloadmanager.com/) | | 下载器 | 多线程下载器 | 要钱，可去吾爱找破解版 |
 | qBittorrent EE | [GitHub](https://github.com/c0re100/qBittorrent-Enhanced-Edition) | | 下载器 | BT下载器 | |
 | v2rayN | [GitHub](https://github.com/2dust/v2rayN) | | 代理 | Win的Xray图形化代理客户端 | |
